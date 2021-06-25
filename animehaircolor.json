@@ -1,0 +1,50 @@
+{
+  "note": "Diese Daten treffen nur auf Menschen zu und auch nicht auf alle. Es gibt Ausnahmen. Das hier sind typische Merkmale!",
+  "female": {
+    "green": [
+      "Kuudere",
+      "etwas schüchtern"
+    ],
+    "white/gray": [
+      "Kuudere",
+      "etwas schüchtern",
+      "etwas zurückhaltend"
+    ],
+    "blue": [
+      "etwas schüchtern",
+      "zurückhaltend",
+      "eventuell mehr Interaktion mit dem Protagonisten",
+      "eventuell mehr fürsorglich (Rem aus Re:Zero als Beispiel"
+    ],
+    "red": [
+      "Tsundere",
+      "meist kleinerer Brustumfang"
+    ],
+    "blond": [
+      "Kein eindeutiges Muster",
+      "in manchen Fällen erwischt sie den Protagonisten bei sexuellen Aktiviäten",
+      "adelig",
+      "meist größerer Brustumfang"
+    ],
+    "violet/purple": {
+      "Draufgänger",
+      "schnell irritierbar"
+    ]
+  },
+  "male": {
+    "white/gray": [
+      "Manchmal psychopathische Muster"
+    ],
+    "darkblue": [
+      "leicht errötbar",
+      "eventuell schnell irritierbar"
+    ],
+    "schwarz": [
+      "kann Spuren von darkblue beinhalten",
+      "'einen auf Cool machen'",
+      "zielstrebig",
+      "meistens als Protagonist",
+      "macht nicht aus allem ein großes Ding (bspw. sind freizügige Mädchen kein großes Problem für ihn)"
+    ]
+  }
+}
